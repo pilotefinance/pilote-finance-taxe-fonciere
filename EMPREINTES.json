@@ -1,0 +1,23 @@
+{
+  "_couverture": "Sous empreinte : tout calcul/, donnees/, resultats/, protocole/ + rejouer.py et verifier_empreintes.py. Hors empreinte, deliberement : EMPREINTES.json lui-meme, .github/**, .gitignore, .gitattributes, LICENSE, requirements.txt, et les deux documents editoriaux du depot (README.md, SOURCES.md), qui se corrigent sans qu'aucune piece de preuve ne bouge.",
+  "_quoi": "Empreintes SHA-256 des pieces du depot, calculees le 27/09/2026 sur les fichiers tels qu'ils sont publies ici.",
+  "_verifier": "python verifier_empreintes.py  (relance aussi par la CI a chaque modification)",
+  "pieces": {
+    "calcul/PF_LeTest_TaxeFonciere_calcul.py": "eac0ae96aeb2037ca854216f797c369211f5e32a14a3b4d362430ffdccaff667",
+    "calcul/PF_LeTest_TaxeFonciere_communes_2026.py": "d5c91e702f1e6115a538252cfbeadaf285efe3647d5d0177308ce042a924541f",
+    "calcul/PF_LeTest_TaxeFonciere_communes_2026_pondere.py": "e3423211e8964cb900db09d62ddfbc529698c9376549ad5ab3e5586a101515e1",
+    "donnees/EPCI_au_01-01-2026.xlsx": "7a3156cf6984f0b70b8fba1243b7f16feed7e16eb37b4b5e8426f1f78d51186a",
+    "donnees/Taux_2026_EPCI.xlsx": "a0a7aa092d0888d644ca1857bdac2b3b7f7d38bfd0e3f95d034dc6880d3598c2",
+    "donnees/Taux_2026_communes.xlsx": "697c10f3e61aa96a51557c46623466cfb3c7e6ac67efed177af8a558e89f1c54",
+    "donnees/descriptif-tarifs-des-locaux-d-habitation_2024.csv": "fc4b5ebf612f62fa6a9260cacd02235e39290daed51c79b11a3570bc79047777",
+    "donnees/insee_populations_2023_ensemble.zip": "5174fc225398a4c072fb8bb5298b7ccf30c017834c7a4171f44787379d83b3f5",
+    "protocole/PF_LeTest_TaxeFonciere_PROTOCOLE_option2.md": "c118483e174cf43347ef33d7450ece66fef30d0370934dfb8b58d9b2a885b041",
+    "rejouer.py": "5b6b0c614a2764ce87cc2822a3d2bcb7265e2744848d789fb7c1b69c4132d002",
+    "resultats/PF_LeTest_TaxeFonciere_calcul.csv": "2953eb3fedfdf37a5f791bb459f9b4c216fc9c8051a356dabf60fe4855d1cda6",
+    "resultats/PF_LeTest_TaxeFonciere_calcul_sortie.txt": "a840839a5d9a9e459000a21e405768e22ae831eff612c17a1ef7d9e9258a8d94",
+    "resultats/PF_LeTest_TaxeFonciere_communes_2026.csv": "0195ab2a7964a18e355f045cac927fb7112f79b5885dac085395dd8e34d9619c",
+    "resultats/PF_LeTest_TaxeFonciere_communes_2026_pondere.json": "09f53c682d669bea8715aa76f8f35ff1bb08f168e9066d49b5b76932bcef1aa4",
+    "resultats/PF_LeTest_TaxeFonciere_communes_2026_resume.json": "a2755bd98b0de684de902e7ec3b3a9317b009dc61f06c1cf1def8fd65a183673",
+    "verifier_empreintes.py": "2701bca3ddfde888caf948204e0c8dc4fc8b5d924fc9aefd3e9b0f2df81c687e"
+  }
+}

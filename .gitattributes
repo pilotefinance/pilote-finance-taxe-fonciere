@@ -1,0 +1,4 @@
+# Aucune normalisation de fins de ligne : les empreintes SHA-256 publiees portent sur
+# les octets exacts. Un clone Windows avec core.autocrlf=true casserait une vingtaine
+# d empreintes sans qu une seule donnee ait bouge.
+* -text

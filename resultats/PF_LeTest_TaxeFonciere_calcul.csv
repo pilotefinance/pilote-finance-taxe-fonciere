@@ -1,0 +1,27 @@
+﻿logement;élément;nombre;m² ajoutés;surface pondérée totale;part de la valeur locative (%);pour 1 000 € de taxe (€)
+A - Studio fictif 15 m² (6e cat., collectif);eau courante;1;4;41;9.76;97.56
+A - Studio fictif 15 m² (6e cat., collectif);électricité;1;2;41;4.88;48.78
+A - Studio fictif 15 m² (6e cat., collectif);égout;1;3;41;7.32;73.17
+A - Studio fictif 15 m² (6e cat., collectif);douche;1;4;41;9.76;97.56
+A - Studio fictif 15 m² (6e cat., collectif);lavabo;1;3;41;7.32;73.17
+A - Studio fictif 15 m² (6e cat., collectif);WC;1;3;41;7.32;73.17
+A - Studio fictif 15 m² (6e cat., collectif);chauffage central (par pièce ou salle d'eau);2;4;41;9.76;97.56
+A - Studio fictif 15 m² (6e cat., collectif);TOTAL éléments de confort;;23;41;56.1;560.98
+B - Appartement fictif 70 m² (6e cat., collectif);eau courante;1;4;100;4.0;40.0
+B - Appartement fictif 70 m² (6e cat., collectif);électricité;1;2;100;2.0;20.0
+B - Appartement fictif 70 m² (6e cat., collectif);égout;1;3;100;3.0;30.0
+B - Appartement fictif 70 m² (6e cat., collectif);baignoire;1;5;100;5.0;50.0
+B - Appartement fictif 70 m² (6e cat., collectif);lavabo;1;3;100;3.0;30.0
+B - Appartement fictif 70 m² (6e cat., collectif);WC;1;3;100;3.0;30.0
+B - Appartement fictif 70 m² (6e cat., collectif);chauffage central (par pièce ou salle d'eau);5;10;100;10.0;100.0
+B - Appartement fictif 70 m² (6e cat., collectif);TOTAL éléments de confort;;30;100;30.0;300.0
+C - Maison, exemple officiel DGFiP (partie principale);eau courante;1;4;326;1.23;12.27
+C - Maison, exemple officiel DGFiP (partie principale);gaz;1;2;326;0.61;6.13
+C - Maison, exemple officiel DGFiP (partie principale);électricité;1;2;326;0.61;6.13
+C - Maison, exemple officiel DGFiP (partie principale);égout;1;3;326;0.92;9.2
+C - Maison, exemple officiel DGFiP (partie principale);baignoire;1;5;326;1.53;15.34
+C - Maison, exemple officiel DGFiP (partie principale);douche;1;4;326;1.23;12.27
+C - Maison, exemple officiel DGFiP (partie principale);lavabo;2;6;326;1.84;18.4
+C - Maison, exemple officiel DGFiP (partie principale);WC;3;9;326;2.76;27.61
+C - Maison, exemple officiel DGFiP (partie principale);chauffage central (par pièce ou salle d'eau);8;16;326;4.91;49.08
+C - Maison, exemple officiel DGFiP (partie principale);TOTAL éléments de confort;;51;326;15.64;156.44

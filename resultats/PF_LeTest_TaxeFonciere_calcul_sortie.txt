@@ -1,0 +1,33 @@
+Surface comparative studio 15 m² (6e cat.) : 18 m² ; appartement 70 m² : 70 m²
+
+A - Studio fictif 15 m² (6e cat., collectif) : nette 18 + confort 23 = 41 m² pondérés -> confort = 56.1 % de la valeur locative
+   eau courante                             x1    4 m²   9.76 %  ( 97.56 € pour 1 000 €)
+   électricité                              x1    2 m²   4.88 %  ( 48.78 € pour 1 000 €)
+   égout                                    x1    3 m²   7.32 %  ( 73.17 € pour 1 000 €)
+   douche                                   x1    4 m²   9.76 %  ( 97.56 € pour 1 000 €)
+   lavabo                                   x1    3 m²   7.32 %  ( 73.17 € pour 1 000 €)
+   WC                                       x1    3 m²   7.32 %  ( 73.17 € pour 1 000 €)
+   chauffage central (par pièce ou salle d'eau) x2    4 m²   9.76 %  ( 97.56 € pour 1 000 €)
+
+B - Appartement fictif 70 m² (6e cat., collectif) : nette 70 + confort 30 = 100 m² pondérés -> confort = 30.0 % de la valeur locative
+   eau courante                             x1    4 m²   4.00 %  ( 40.00 € pour 1 000 €)
+   électricité                              x1    2 m²   2.00 %  ( 20.00 € pour 1 000 €)
+   égout                                    x1    3 m²   3.00 %  ( 30.00 € pour 1 000 €)
+   baignoire                                x1    5 m²   5.00 %  ( 50.00 € pour 1 000 €)
+   lavabo                                   x1    3 m²   3.00 %  ( 30.00 € pour 1 000 €)
+   WC                                       x1    3 m²   3.00 %  ( 30.00 € pour 1 000 €)
+   chauffage central (par pièce ou salle d'eau) x5   10 m²  10.00 %  (100.00 € pour 1 000 €)
+
+C - Maison, exemple officiel DGFiP (partie principale) : nette 275 + confort 51 = 326 m² pondérés -> confort = 15.6 % de la valeur locative
+   eau courante                             x1    4 m²   1.23 %  ( 12.27 € pour 1 000 €)
+   gaz                                      x1    2 m²   0.61 %  (  6.13 € pour 1 000 €)
+   électricité                              x1    2 m²   0.61 %  (  6.13 € pour 1 000 €)
+   égout                                    x1    3 m²   0.92 %  (  9.20 € pour 1 000 €)
+   baignoire                                x1    5 m²   1.53 %  ( 15.34 € pour 1 000 €)
+   douche                                   x1    4 m²   1.23 %  ( 12.27 € pour 1 000 €)
+   lavabo                                   x2    6 m²   1.84 %  ( 18.40 € pour 1 000 €)
+   WC                                       x3    9 m²   2.76 %  ( 27.61 € pour 1 000 €)
+   chauffage central (par pièce ou salle d'eau) x8   16 m²   4.91 %  ( 49.08 € pour 1 000 €)
+
+Maison entière (garage et piscine compris, VL 1970 = 3648 €) : baignoire 1.37 %, tout le confort 15.19 %
+Appartement B' (douche), fiche avec seulement eau, électricité, égout : 79 -> 99 m² = +25.3 % de valeur locative

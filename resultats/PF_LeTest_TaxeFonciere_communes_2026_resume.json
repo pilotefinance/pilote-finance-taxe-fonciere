@@ -1,0 +1,77 @@
+{
+  "national": {
+    "communes": 28338,
+    "baignoire_mediane": 16.64,
+    "baignoire_D1": 10.91,
+    "baignoire_D9": 26.91,
+    "baignoire_min": 1.26,
+    "baignoire_max": 92.13,
+    "appartB30m2_mediane": 99.84,
+    "tarif_mediane": 2.59,
+    "taux_global_mediane": 39.59
+  },
+  "villes": {
+    "PARIS": {
+      "tarifs_A6": 111,
+      "tarif_med": 10.37,
+      "tarif_min": 8.37,
+      "tarif_max": 14.15,
+      "actu": 1.85,
+      "taux_com": 20.5,
+      "taux_epci": 0.0,
+      "taux_global": 20.5,
+      "eur_m2": 7.75,
+      "baignoire": 38.74,
+      "baignoire_min": 31.27,
+      "baignoire_max": 52.86,
+      "WC": 23.24,
+      "douche": 30.99,
+      "chauffage_par_piece": 15.49,
+      "appartB_30m2": 232.42
+    },
+    "MARSEILLE": {
+      "tarifs_A6": 23,
+      "tarif_med": 5.03,
+      "tarif_min": 5.03,
+      "tarif_max": 5.95,
+      "actu": 1.6,
+      "taux_com": 44.54,
+      "taux_epci": 2.59,
+      "taux_global": 47.13,
+      "eur_m2": 7.47,
+      "baignoire": 37.36,
+      "baignoire_min": 37.36,
+      "baignoire_max": 44.19,
+      "WC": 22.42,
+      "douche": 29.89,
+      "chauffage_par_piece": 14.94,
+      "appartB_30m2": 224.15
+    },
+    "LYON": {
+      "tarifs_A6": 17,
+      "tarif_med": 5.79,
+      "tarif_min": 5.08,
+      "tarif_max": 5.98,
+      "actu": 1.63,
+      "taux_com": 31.89,
+      "taux_epci": 0.55,
+      "taux_global": 32.44,
+      "eur_m2": 6.03,
+      "baignoire": 30.15,
+      "baignoire_min": 26.46,
+      "baignoire_max": 31.14,
+      "WC": 18.09,
+      "douche": 24.12,
+      "chauffage_par_piece": 12.06,
+      "appartB_30m2": 180.93
+    }
+  },
+  "journal": [
+    "Tarifs : 506284 lignes ; appartements 6e catégorie en métropole : 33674 lignes",
+    "ÉCART au protocole (écrit ici) : 35 lignes à tarif nul ou vide exclues (un tarif de 0 € n'est pas un tarif)",
+    "Côte-d'Or à 1,57 : CHENOVE, CHEVIGNY-SAINT-SAUVEUR, DIJON, FONTAINE-LES-DIJON, LONGVIC, QUETIGNY, SAINT-APOLLINAIRE, TALANT",
+    "Meurthe-et-Moselle à 1,70 : HAN DEVANT PIERREPONT",
+    "Communes avec tarif : 28419 ; sans taux communal 2026 trouvé (codes changés, fusions) : 81 -> exclues",
+    "Communes sans taux intercommunal de taxe foncière dans le fichier DGFiP 2026 (taux intercommunal compté 0) : 175 dont Paris (Métropole du Grand Paris absente du fichier)"
+  ]
+}

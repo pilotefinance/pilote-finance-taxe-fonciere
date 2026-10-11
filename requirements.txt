@@ -1,0 +1,17 @@
+# Le Test « taxe foncière » — Pilote Finance.
+# Versions RECOUPÉES avec l'environnement réel (`pip freeze`) qui a rejoué le calcul à
+# l'identique le 27/09/2026, sous Python 3.12.10.
+#
+# pandas lit le fichier des tarifs (CSV) et les tableurs des taux (xlsx, moteur calamine).
+# Un calcul qui dépend de pandas dépend aussi de sa version : elles sont figées, dépendances
+# comprises.
+
+pandas==2.3.3
+numpy==2.5.3
+python-calamine==0.8.2
+python-dateutil==2.9.0.post0
+pytz==2026.4
+six==1.17.0
+tzdata==2026.4
+
+ruff==0.15.18      # gate lint, outils du dépôt seulement (voir .github/workflows/ci.yml)
